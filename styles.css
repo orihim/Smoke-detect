@@ -1,0 +1,54 @@
+/* Styles généraux */
+.main {
+    padding: 2rem;
+}
+
+/* Style du titre principal */
+.css-10trblm {
+    color: #FF4B4B;
+    margin-bottom: 2rem;
+}
+
+/* Style des sous-titres */
+.css-1629p8f h2 {
+    color: #262730;
+    margin: 1.5rem 0;
+}
+
+/* Style des sélecteurs */
+.stSelectbox {
+    margin-bottom: 1rem;
+}
+
+/* Style des graphiques */
+.js-plotly-plot {
+    margin-bottom: 2rem;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    border-radius: 5px;
+}
+
+/* Style du sidebar */
+.css-1d391kg {
+    padding: 2rem 1rem;
+}
+
+/* Style des tabs */
+.stTabs [data-baseweb="tab-list"] {
+    gap: 2rem;
+}
+
+.stTabs [data-baseweb="tab"] {
+    height: 4rem;
+    white-space: pre-wrap;
+    background-color: #F0F2F6;
+    border-radius: 4px;
+    color: #262730;
+    font-weight: 500;
+}
+
+/* Style du footer */
+.footer {
+    margin-top: 3rem;
+    padding-top: 1rem;
+    border-top: 1px solid #E6E6E6;
+}
